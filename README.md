@@ -1,7 +1,7 @@
 ### Olá! Eu sou João Veloso
 ##
 - 🔭 Atualmente estudando UX|UI
-- 🌱 Técnico em informática
+- 🌱 Técnico em informática|Senac 
 
 
 
