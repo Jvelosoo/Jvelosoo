@@ -1,7 +1,8 @@
 ### Olá! Eu sou João Veloso
 ##
-- 🔭 Atualmente estudando UX|UI
+- 🔭 Atualmente estudando Web/Java/MySql
 - 🌱 Técnico em informática|Senac 
+- 🌱 Ciência da computação|São Judas 
 
 
 
