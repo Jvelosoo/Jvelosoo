@@ -1,6 +1,6 @@
 ### Olá! Eu sou João Veloso
 ##
-- 🔭 Atualmente estudando JavaScript/React/Java/MySql
+- 🔭 Atualmente estudando Python/Java/MySql
 - 🌱 Técnico em informática|Senac 
 - 🌱 Ciência da computação|São Judas 
 
