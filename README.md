@@ -2,7 +2,7 @@
 ##
 - 🔭 Atualmente estudando Python/Java/MySql
 - 🌱 Técnico em informática|Senac 
-- 🌱 Ciência da computação|São Judas 
+- 🌱 Análise e desenvolvimento de Sistemas|São Judas 
 
 
 
